@@ -6,6 +6,29 @@
 - 😄 Pronouns: BZN(Short for my name)
 - ⚡ Fun fact: Personally, I think this Italy should be mixed with No. 42 concrete, because of the length of this screw, it can easily directly affect the torque of the excavator(A intresting "梗" from China)
 
+![](https://github-readme-stats.vercel.app/api?username=BZN666&show_icons=true&theme=transparent)
+
+You are the
+![Visitor Count](https://profile-counter.glitch.me/bzn666/count.svg)
+person visiting my Homepage
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bzn666&layout=compact&theme=tokyonight)
+
+How often I login my Github?
+![](https://github-readme-activity-graph.cyclic.app/graph?username=bzn666&theme=dracula)
+
+
+------------
+
+
+![Static Badge](https://img.shields.io/badge/Luogu-%E8%8D%92%E6%B3%B7%E4%B8%80%E6%96%97-orange.svg)
+
+
+
+
+
+
+
 <!---
 Bzn666/Bzn666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
