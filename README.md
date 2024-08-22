@@ -14,6 +14,9 @@ person visiting my Homepage
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bzn666&layout=compact&theme=tokyonight)
 
+How often I login my Github?
+![](https://github-readme-activity-graph.cyclic.app/graph?username=你的Github用户名&theme=dracula)
+
 
 ------------
 
