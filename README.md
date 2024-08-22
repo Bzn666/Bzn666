@@ -19,7 +19,7 @@ person visiting my Homepage
 
 
 ![Static Badge](https://img.shields.io/badge/Luogu-%E8%8D%92%E6%B3%B7%E4%B8%80%E6%96%97-orange.svg)
-![博客园](https://img.shields.io/badge/cn.blog-orange.svg)
+![博客园](https://img.shields.io/badge/cn.blog-%E8%8D%92%E6%B3%B7%E4%B8%80%E6%96%97-orange.svg)
 
 
 
