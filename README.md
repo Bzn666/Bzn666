@@ -19,7 +19,7 @@ person visiting my Homepage
 
 
 ![Static Badge](https://img.shields.io/badge/Luogu-%E8%8D%92%E6%B3%B7%E4%B8%80%E6%96%97-orange.svg)
-![博客园](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%E5%9B%AD-%E9%9B%AA%E4%B9%8B%E6%A2%A6%E6%8A%80%E6%9C%AF%E9%A9%BF%E7%AB%99-orange.svg)](https://www.cnblogs.com/Heike-BZN/)
+![博客园](https://img.shields.io/badge/cn.blog-orange.svg)
 
 
 
